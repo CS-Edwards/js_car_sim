@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=NkI9ia2cLhc&list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9p
 
 
 note: integrate with P5.js and ML5.js
+note: Box2D library for physics manupulation; currently hard coded
