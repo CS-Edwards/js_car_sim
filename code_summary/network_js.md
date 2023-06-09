@@ -1,4 +1,5 @@
 # network.js
+Feed forward neural network.
 
 ## Class: NeuralNetwork
 ## Class: Level
